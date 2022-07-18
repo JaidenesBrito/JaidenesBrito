@@ -13,5 +13,4 @@ Eu sou Jaidenes Brito, sou progamador Front End, Atualmente estou aprendendo e c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaidenesBrito)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Meu <a href="www.linkedin.com/in/jaidenes-brito-santos-5a9688161">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
