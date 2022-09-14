@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Jaidenes Brito, sou programador Front End, Atualmente estou aprendendo e criando projetos com as tecnologias abaixo,
+muito prazer me chamo Jaidenes Brito, sou programador Front End, Atualmente estou aprendendo e criando projetos com as tecnologias abaixo,
 estou em constante aprendizado sempre estudando para chegar no meu objetivo que é se tornar um programador fullstack.
 
 <br>
@@ -16,6 +16,7 @@ estou em constante aprendizado sempre estudando para chegar no meu objetivo que 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     
