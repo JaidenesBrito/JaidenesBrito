@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-muito prazer me chamo Jaidenes Brito, sou programador Front End, Atualmente estou aprendendo e criando projetos com as tecnologias abaixo,
-estou em constante aprendizado sempre estudando para chegar no meu objetivo que é se tornar um programador fullstack.
+Muito prazer me chamo Jaidenes Brito, sou formado em administração e estudante de Análise e desenvolvimento de sistemas, há algum tempo descobri uma paixão imensa pela área da tecnologia e desde então venho focado nos estudo todos os dias até conseguir alcançar meu objetivo que é conseguir meu primeiro emprego e se tornar um desenvolvedor fullstack.
+
 
 <br>
 
